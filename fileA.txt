@@ -1,2 +1,3 @@
 created the file A.
-branch A: initialize the A file.
+
+branch A: initialize the A file...
