@@ -1,1 +1,2 @@
 created the file B.
+branch B: intialize the B file.
